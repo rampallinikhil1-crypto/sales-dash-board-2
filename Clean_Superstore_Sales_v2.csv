@@ -1,0 +1,61 @@
+Order Date,Region,Category,Sales,Profit
+2023-02-15,East,Electronics,872.86,202.35
+2023-01-03,East,Home Decor,436.35,32.96
+2023-01-29,South,Home Decor,1338.73,340.67
+2023-02-04,East,Clothing,744.33,192.02
+2023-02-08,North,Home Decor,370.44,138.73
+2023-01-18,West,Home Decor,511.17,-14.24
+2023-01-20,West,Clothing,1245.1,-71.69
+2023-02-12,West,Home Decor,883.28,-21.48
+2023-03-01,South,Electronics,1049.1,69.31
+2023-02-27,North,Home Decor,1232.78,120.32
+2023-01-23,East,Home Decor,1316.0,241.92
+2023-02-03,North,Clothing,685.19,2.94
+2023-02-02,East,Clothing,182.51,208.22
+2023-02-19,South,Home Decor,769.84,362.24
+2023-02-17,West,Home Decor,829.62,-60.19
+2023-01-10,East,Electronics,912.88,142.7
+2023-02-02,North,Clothing,532.88,249.28
+2023-02-16,East,Clothing,1387.84,-59.22
+2023-02-02,East,Electronics,1017.49,334.55
+2023-02-17,West,Clothing,588.94,116.55
+2023-01-26,North,Electronics,857.53,147.17
+2023-01-20,West,Clothing,728.67,147.87
+2023-01-15,West,Home Decor,495.25,85.36
+2023-02-06,East,Home Decor,514.23,361.06
+2023-02-02,West,Electronics,888.87,320.64
+2023-01-17,South,Clothing,1101.27,227.76
+2023-01-05,West,Clothing,824.67,131.34
+2023-02-19,East,Clothing,592.86,182.51
+2023-02-25,South,Electronics,985.89,111.96
+2023-01-04,West,Clothing,1322.37,44.11
+2023-01-03,South,Clothing,335.04,31.99
+2023-01-21,East,Electronics,1482.47,245.37
+2023-02-09,North,Home Decor,589.18,316.42
+2023-01-03,North,Clothing,1256.69,196.2
+2023-01-21,South,Home Decor,191.65,133.26
+2023-02-17,North,Electronics,107.49,236.83
+2023-02-26,East,Clothing,1341.72,95.74
+2023-02-18,South,Electronics,1375.85,251.05
+2023-01-08,South,Home Decor,379.17,382.85
+2023-02-11,West,Electronics,138.57,-54.75
+2023-02-05,North,Electronics,1244.27,-70.94
+2023-01-29,South,Home Decor,438.56,194.01
+2023-02-22,South,Electronics,178.52,275.59
+2023-02-08,North,Home Decor,194.59,155.66
+2023-02-03,North,Clothing,763.42,360.25
+2023-01-22,West,Electronics,813.2,51.98
+2023-02-24,South,Electronics,683.51,146.5
+2023-01-31,East,Electronics,458.18,389.68
+2023-01-28,West,Electronics,634.12,61.75
+2023-02-04,West,Electronics,1230.34,-5.22
+2023-02-03,West,Electronics,1235.45,52.61
+2023-01-13,South,Clothing,1060.66,72.06
+2023-02-10,South,Electronics,1489.66,239.77
+2023-01-04,West,Electronics,667.26,-73.09
+2023-02-12,South,Electronics,366.24,303.3
+2023-01-06,East,Home Decor,783.44,201.48
+2023-01-01,West,Home Decor,803.32,227.61
+2023-01-12,West,Clothing,664.7,273.83
+2023-02-04,West,Clothing,353.53,167.81
+2023-02-28,West,Electronics,167.24,-45.42
